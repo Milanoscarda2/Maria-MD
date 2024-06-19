@@ -1,4 +1,4 @@
-<a href="https://ibb.co/pQNpmwN"><img src="https://i.ibb.co/xYwQ4Lw/cheemspic.jpg" alt="Maria-Md" border="0"></a>
+<a href="https://ibb.co/pQNpmwN"><img src="https://i.ibb.co/xYwQ4Lw/cheemspic.jpg" alt="milanoscarda" border="0"></a>
 <h1 align="center">⭐Maria-Md⭐<br></h1>
 
 <p align="center"> 
@@ -32,7 +32,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/ayushpandeyy_023"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/milanoscarda_023"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
 ## ✧✧Bot Support Groups
 <p align="center">
@@ -48,7 +48,7 @@
   
 1. Fork The Repo
     <br>
-    <a href="https://github.com/AYUSH-PANDEY023/Maria-MD/fork"><img title="Maria-MD" src="https://img.shields.io/badge/FORK MARIA-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+    <a href="https://github.com/AYUSH-PANDEY023/Maria-MD/fork"><img title="Maria-MD" src="https://img.shields.io/badge/FORK milanoscarda-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Pair with WhatsApp 
    <p align="left">
@@ -59,7 +59,7 @@
 
 
 ## ✧✧Maria Deployment  
-<a href="https://maria-pair-riders004.koyeb.app/deploy.html"><img title="Deploy Maria-MD  " src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://maria-pair-riders004.koyeb.app/deploy.html"><img title="Deploy milanoscarda " src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 
 
